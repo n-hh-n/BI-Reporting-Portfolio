@@ -1,24 +1,34 @@
-# 📊 Freelance BI Portfolio Project – Marketing Campaign Dashboard
+# 📊 Business Intelligence Reporting Dashboard – Marketing Campaign Project
 
-Simulated a freelance-style business intelligence dashboard project for a creative agency using Excel and Power BI concepts.
+This project simulates a freelance-style BI reporting task for a creative agency. It uses Excel to analyze a real-world marketing dataset, helping stakeholders understand campaign performance, engagement, and conversion across channels.
 
-## 📁 Tools Used
+## 🚀 Tools & Technologies
 - Excel (PivotTables, Filters, Conditional Formatting)
-- Power Query concepts (manual on Mac)
-- VS Code + GitHub
+- Power Query-style data cleaning (manual on Mac)
+- Git & GitHub (VS Code workflow)
+
+## 📁 Dataset
+[Kaggle: Marketing Campaign Performance Dataset](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset)
 
 ## 📈 Key Insights
-- ROI by Campaign Type
-- Conversion Rate by Marketing Channel
-- Engagement Score by Audience Segment
+- ROI by Campaign Type (Email, Social Media, etc.)
+- Average Conversion Rate across Marketing Channels
+- Audience Engagement Score by Segment
 
-## 🎛️ Features
+## 🎛️ Dashboard Features
+- Cleanly structured Excel dashboard
 - Interactive filters (Campaign Type, Channel, Audience)
-- Clean dashboard layout with clear KPIs
-- Built from a real Kaggle dataset
+- Professional layout using PivotTables only (no charts)
+- Built fully on Mac, using Excel's classic tools
 
 ## 🖼️ Preview
-![Screenshot](./dashboard_screenshot_1.png)
+*(Insert screenshot here if available)*
 
-## 🔗 Dataset
-Source: [Kaggle – Marketing Campaign Performance](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset)
+## 🧠 What I Learned
+- How to simulate client-style data analysis projects
+- Dashboard design for non-technical users
+- Using filters and layout to tell a data story without charts
+
+---
+
+👨‍💻 Project by [n-hh-n](https://github.com/n-hh-n)
